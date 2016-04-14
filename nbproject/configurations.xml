@@ -6,7 +6,7 @@
                    projectFiles="true">
       <itemPath>MathUtils.hpp</itemPath>
       <itemPath>Person.hpp</itemPath>
-      <itemPath>Person_1.hpp</itemPath>
+      <itemPath>Worker.hpp</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -47,9 +47,9 @@
       </item>
       <item path="Person.hpp" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="Person_1.hpp" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="README.MD" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Worker.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -78,9 +78,9 @@
       </item>
       <item path="Person.hpp" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="Person_1.hpp" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="README.MD" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Worker.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>

@@ -2,6 +2,7 @@
 
 #include "MathUtils.hpp"
 #include "Person.hpp"
+#include "Worker.hpp"
 
 using namespace std ;
 
@@ -16,7 +17,10 @@ int main() {
 
    //testPerson();
    Person p1("foo", 10, 100.0); 
-   cout << p1.toString(); 
+   cout << p1.toString() << endl; 
+   
+   Worker w1 ("bar", 20, 200.0); 
+   cout << w1.toString() << endl; 
 	return 0 ;
 }
 
